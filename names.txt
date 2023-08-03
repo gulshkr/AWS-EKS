@@ -1,0 +1,5 @@
+account number: 895657282291
+region: us-east-2
+cluster name: lil-eks
+user arn: arn:aws:iam::895657282291:user/eks-gulsh
+Access key - AKIA5BCKVRLZQ7QZ7UQ2
