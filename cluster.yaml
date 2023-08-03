@@ -9,9 +9,6 @@ metadata:
     projects: linkedin-learning
 
 nodeGroups:
-  - name: NUMBER_OF_NODES
-    instanceType: EC2_INSTANCE_TYPE
-    desiredCapacity: NUMBER_OF_NODES
-  # - name: ng-2
-  #   instanceType: n5.xlarge
-  #   desiredCapacity: 2
+  - name: worker-node
+    instanceType: m5.large
+    desiredCapacity: 3
