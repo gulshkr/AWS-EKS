@@ -1,5 +1,0 @@
-account number: xxxxxxxxxxxx
-region: us-east-2
-cluster name: lil-eks
-user arn: arn:aws:iam::account number:user/eks-gulsh
-Access key - xxxxxxxxxxxx

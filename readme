@@ -1,0 +1,11 @@
+#Running kubernetes on AWS
+<-----Prerequisite--------->
+#follow from 1st and start with aws kubernetes
+#Do check each subfile too
+#Install AWS CLi
+#install minikube for kubernetes
+# AWS Configure
+# WE are using Iac
+# Create a Json for IAM policy
+#Create Kubernetes service account
+# there are so many things but that's it for now
