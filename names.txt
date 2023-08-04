@@ -1,5 +1,5 @@
-account number: 895657282291
+account number: xxxxxxxxxxxx
 region: us-east-2
 cluster name: lil-eks
-user arn: arn:aws:iam::895657282291:user/eks-gulsh
-Access key - AKIA5BCKVRLZQ7QZ7UQ2
+user arn: arn:aws:iam::account number:user/eks-gulsh
+Access key - xxxxxxxxxxxx
